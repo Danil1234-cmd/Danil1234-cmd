@@ -1,14 +1,14 @@
-Привет 👋 Меня зовут Данил
-==========================
+Hi 👋 My name is Danil
+======================
 
-Я разработчик и просто классный парень
---------------------------------------
+I developer and just a cool guy
+-------------------------------
 
-Я программирую уже около двух лет. Знаю Python, C# (только для Unity) и сейчас изучаю C++.
+Программирую уже около двух лет. Знаю Python, C#(только для Unity), и сейчас изучаю C++.
 
-* 🌍 I'm based in Москве
-* 🖥️ See my portfolio at [сайте](http://youtu.be/dQw4w9WgXcQ?si=rM-QGD9Qg07DcHVh)
-* 🧠 I'm learning С++
+* 🌍  I'm based in Москве
+* 🖥️  See my portfolio at [сайте](http://youtu.be/dQw4w9WgXcQ?si=rM-QGD9Qg07DcHVh)
+* 🧠  I'm learning С++
 
 <a href="https://www.github.com/Danil1234-cmd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Danil1234-cmd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
