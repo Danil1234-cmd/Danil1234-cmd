@@ -4,10 +4,10 @@ Hi 👋 My name is Danil
 I developer and just a cool guy
 -------------------------------
 
-Программирую уже около двух лет. Знаю Python, C#(только для Unity), и сейчас изучаю C++.
+I've been programming for about two years now. I know Python, C#(only for Unity), and now I'm studying C++.
 
-* 🌍  I'm based in Москве
-* 🖥️  See my portfolio at [сайте](http://youtu.be/dQw4w9WgXcQ?si=rM-QGD9Qg07DcHVh)
+* 🌍  I'm based in Moscow
+* 🖥️  See my portfolio at [website](http://youtu.be/dQw4w9WgXcQ?si=rM-QGD9Qg07DcHVh)
 * 🧠  I'm learning С++
 
 <a href="https://www.github.com/Danil1234-cmd" target="_blank" rel="noreferrer"><img
