@@ -4,7 +4,7 @@ Hi 👋 My name is Danil
 I developer and just a cool guy
 -------------------------------
 
-I've been programming for about two years now. I know Python, C#(only for Unity), and now I'm studying C++.
+I've been programming for about two years now. I know Python, C#(only for Unity), and now I'm studying C++. I'm a member of Points Studio
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [website](http://youtu.be/dQw4w9WgXcQ?si=rM-QGD9Qg07DcHVh)
